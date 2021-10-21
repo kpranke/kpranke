@@ -8,7 +8,7 @@
 
 ### Let's connect
 
-[LinkedIn]( http://www.linkedin.com/in/kpranke)
+<a href = "https://www.linkedin.com/in/kpranke/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ### Languages and Tools
 
@@ -25,5 +25,5 @@
 <img align="left" alt="pandas" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 <img align="left" alt="matplotlib_logo" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/matplotlib_logo.png" />
 
-
+### Github Stats
 ![Kasia's Github Stats](https://github-readme-stats.vercel.app/api?username=kpranke&show_icons=true)
