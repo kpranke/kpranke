@@ -1,6 +1,5 @@
 ### Intro
 
-- 🔭 I’m currently following BeCode AI Bootcamp.
 - 🌱 I’m currently learning data analysis and data visualization with Python.
 - 👯 I’m looking to collaborate on language or environment-related projects.
 - 🤔 I’m looking for mentoring.
