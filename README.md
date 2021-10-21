@@ -24,3 +24,5 @@
 <img align="left" alt="numpy" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />
 <img align="left" alt="pandas" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 <img align="left" alt="matplotlib_logo" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/matplotlib_logo.png" />
+
+![Hua's github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true)
