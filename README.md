@@ -1,9 +1,9 @@
 ### Intro
 
-- 🌱 I’m currently participating in an intense Python for data science boot camp based on active learning (learning by doing)
+- 🌱 I’m currently participating in an intense Python for data science boot camp based on active learning (learning by doing).
 - 👯 I’m looking to collaborate on language or environment-related projects.
 - 🤔 I’m looking for mentoring.
-- 😄 Pronouns: she/her/hers
+- 😄 Pronouns: she/her/hers.
 
 ### Let's connect
 
