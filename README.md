@@ -24,3 +24,11 @@
 <img align="left" alt="pandas" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 <img align="left" alt="matplotlib_logo" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/matplotlib_logo.png" />
 
+### BeCode Portfolio:
+- [Visual Anomaly Detection](https://github.com/kpranke/Faktion-visual-anomaly-detection)
+- [Building knowledge graph consisting of named entities and relationships between them (spaCy, WikiData, Neo4j)](https://github.com/kpranke/Algorythm_NLP)
+- [Steam games sales analytics - deployment (SQL database, Flask, Docker, Heroku)](https://github.com/kpranke/deployment)
+- [Anomalous sound detection for predictive maintenance of industrial machines - unsupervised learning](https://github.com/kpranke/machine-monitoring-conditions-unsupervised)
+- [Anomalous sound detection for predictive maintenance of industrial machines - supervised learning](https://github.com/kpranke/machine-monitoring-conditions)
+- [3D houses (handling geospatial data, API calls)](https://github.com/kpranke/3D_houses)
+- [Card game (OOP)](https://github.com/kpranke/challenge-card-game-becode)
