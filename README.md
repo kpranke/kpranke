@@ -8,8 +8,8 @@
 <a href = "https://www.linkedin.com/in/kpranke/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ### BeCode Portfolio:
-- [Visual Anomaly Detection](https://github.com/kpranke/Faktion-visual-anomaly-detection)
 - [Knowledge graph for Reuters dataset (spaCy, WikiData, Neo4j)](https://github.com/kpranke/Algorythm_NLP)
+- [Visual Anomaly Detection](https://github.com/kpranke/Faktion-visual-anomaly-detection)
 - [Steam games sales analytics - deployment (SQL database, Flask, Docker, Heroku)](https://github.com/kpranke/deployment)
 - [Anomalous sound detection for predictive maintenance of industrial machines - unsupervised learning](https://github.com/kpranke/machine-monitoring-conditions-unsupervised)
 - [Anomalous sound detection for predictive maintenance of industrial machines - supervised learning](https://github.com/kpranke/machine-monitoring-conditions)
